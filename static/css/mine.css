@@ -1,0 +1,7 @@
+html, button, input, select, textarea, p, nav, section, article, header, footer, .pure-g [class *= "pure-u"] {
+    font-family: "Source Sans Pro","Helvetica Neue", "Lucida Grand", sans-serif;
+}
+
+body {
+   background-color: #ffffff;
+}
