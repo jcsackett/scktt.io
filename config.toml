@@ -1,4 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://scktt.io/"
 languageCode = "en-us"
 title = "scktt.io"
 theme = "tufte"
+showPoweredBy = true
+copyrightHolder = "j.c.sackett"
