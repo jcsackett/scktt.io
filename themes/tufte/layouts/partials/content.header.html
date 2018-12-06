@@ -6,7 +6,6 @@
   <a href="{{ .RelPermalink }}">{{ .Title }}{{ if .Draft }} :: Draft {{end}}</a>
   {{ end }}
 </h1>
-  {{ .Content }}
 {{ if .IsPage }}
 {{ if .Params.subtitle }}<p class=subtitle>{{ .Params.subtitle }}</p>{{ end }}
 {{ if or (eq .Type "post") (.Params.meta)  }}
