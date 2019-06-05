@@ -5,3 +5,7 @@ html, button, input, select, textarea, p, nav, section, article, header, footer,
 body {
    background-color: #ffffff;
 }
+
+.sidenote, .marginnote {
+   margin-right: -60%;
+}
