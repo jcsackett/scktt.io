@@ -2,7 +2,5 @@
 Title = "blog" 
 +++
 
-<small>
-If you're looking for a post from an older website, check out [the
-archive](/archive).
-</small>
+There's a collection of older stuff from past blogs in the
+[archive](/archive).
