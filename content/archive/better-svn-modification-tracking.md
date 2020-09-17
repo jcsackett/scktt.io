@@ -3,8 +3,11 @@ date = 2010-03-30T22:25:00.000Z
 title = "Better svn modification tracking"
 draft = false
 +++
+We use svn at work (we’re looking at hg or git, but that’s a different
+discussion) and we have projects with huge external lists. That means
+the output of a generic **svn st** command can be incredibly difficult
+to parse.
 
-
-<div><p>We use svn at work (we&#8217;re looking at hg or git, but that&#8217;s a different discussion) and we have projects with huge external lists. That means the output of a generic <strong>svn st</strong> command can be incredibly difficult to parse.</p>
-<p>I&#8217;ve been using <strong>&#8212;ignore-externals</strong> and piping through grep often enough that I finally slapped it into a shell script on my path. It&#8217;s been incredibly useful for me; perhaps it will be for you as well.</p>
-<script src="http://gist.github.com/349610.js?file=find-mods"></script></div>
+I’ve been using **—ignore-externals** and piping through grep often
+enough that I finally slapped it into a shell script on my path. It’s
+been incredibly useful for me; perhaps it will be for you as well.

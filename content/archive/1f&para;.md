@@ -3,9 +3,14 @@ date = 2011-01-10T21:51:00.000Z
 title = "1F&para;"
 draft = false
 +++
+[A new proposal](http://onefuckingparagraph.tumblr.com "1F¶").
 
+I’m still intent on doing more writing here, but my “one big ass
+meaningful post” thing isn’t working. Clearly.
 
-<div><p><a href="http://onefuckingparagraph.tumblr.com" title="1F¶">A new proposal</a>.</p>
-<p>I&#8217;m still intent on doing more writing here, but my &#8220;one big ass meaningful post&#8221; thing isn&#8217;t working. Clearly.</p>
-<p>So scratch that. I&#8217;ve got another blog up <strike>(which I&#8217;ll sync to here as well (thanks tumblr imports))</strike> (which will <em>not</em> be imported here because you can&#8217;t do that with tumblr feeds). The premise is simple. One paragraph a day. Just one.</p>
-<p>We&#8217;ll see how <em>that</em> goes.</p></div>
+So scratch that. I’ve got another blog up ~~(which I’ll sync to here as
+well (thanks tumblr imports))~~ (which will *not* be imported here
+because you can’t do that with tumblr feeds). The premise is simple. One
+paragraph a day. Just one.
+
+We’ll see how *that* goes.
