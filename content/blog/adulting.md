@@ -61,14 +61,15 @@ I could go into a whole rant about that but I think this post is already
 > keep them grinding for an uncaring company for 50 years in unhappy marriages
 > until death is a mercy.
 
-[tweets]: https://twitter.com/search?q=adulting [barlow]:
-https://lifehacker.com/john-perry-barlow-s-tips-for-being-a-grown-up-1822847961
+[tweets]: https://twitter.com/search?q=adulting
+
+[barlow]: https://lifehacker.com/john-perry-barlow-s-tips-for-being-a-grown-up-1822847961
+
 [valente]: https://twitter.com/catvalente/status/1089293175360028674
 
 [^1]: My father used to work in marketing demographics. You end up just knowing
 this sort of nonsense.
 
-[^2]:
-This isn't going to be a piece about boomers being the root of all evil; it's
-just a fact that boomers have stayed in the workforce longer than previous
-generations.
+[^2]: This isn't going to be a piece about boomers being the root of all evil;
+it's just a fact that boomers have stayed in the workforce longer than
+previous generations.
