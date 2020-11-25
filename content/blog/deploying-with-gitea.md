@@ -8,15 +8,16 @@ As of last week this blog gets deployed via a private gitea repository. I
 know, I know, not that impressive, but I'm going to write it up anyway, and if
 you don't care you can smile and nod and close the tab.
 
-[Gitea][gitea] is great git hosting webapp (and git server) that is really
-simple to [set up][install-docs]. 
-
 I've been meaning for some time to set up my own git server for personal
 projects in lieu of hosting *everything* on github, and the work I've been
-doing to update this site seemed like a good time to do that. So after quickly
-setting it up (just follow the docs) I started pushing this site's repo to it
-when I realized I had the opportunity to do something clever (that other folks
-have been doing since static site generators and git were a thing).
+doing to update this site seemed like a good time to do that. I looked at
+several options and after a suggestion from a friend I settled on gitea.
+[Gitea][gitea] is a nice git hosting webapp (and git server) that is really
+simple to [set up][install-docs]. Fundamentally it's just one go binary to
+spin up, though you can put nginx in front of (like I did) if that works
+better for you. Once I had set gitea up I started pushing this site's repo to
+it and I realized I had the opportunity to do something clever (that other
+folks have been doing since static site generators and git were a thing).
 
 I have always updated this site via rsync. This is fine, but it means that
 deploys of the site may not have been committed. It would be much better to
